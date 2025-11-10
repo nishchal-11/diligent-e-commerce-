@@ -1,3 +1,8 @@
+ video demonstraation link(see this link for video of my website)
+https://drive.google.com/file/d/1CKctLue9dF1XeAOmoLP7OpgWn8HEOGFz/view?usp=sharing
+
+
+
 # Speed Ecom — Throwaway MVP
 
 This repository contains a minimal "throwaway" MERN-style MVP (but with mock data) for speed: a Node/Express backend serving mock products and a Vite + React frontend that consumes it. The goal is to be runnable quickly and demonstrate the flow (login, view products, add to cart, simple chatbot filter).
