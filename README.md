@@ -21,7 +21,7 @@ This repository contains a minimal "throwaway" MERN-style MVP (but with mock dat
 > 
 > **Live Demo Video:** [Click here to watch](YOUR_VIDEO_LINK)
 > 
-> [![Demo Video](https://img.youtube.com/vi/YOUR_YOUTUBE_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_ID)
+> [![Demo Video](https://drive.google.com/file/d/1CKctLue9dF1XeAOmoLP7OpgWn8HEOGFz/view?usp=sharing))
 
 > **Option 3: Create a GIF (Recommended for quick demos)**
 > - Use tools like ScreenToGif, Giphy Capture, or LICEcap
