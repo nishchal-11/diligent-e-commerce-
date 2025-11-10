@@ -2,6 +2,27 @@
 
 This repository contains a minimal "throwaway" MERN-style MVP (but with mock data) for speed: a Node/Express backend serving mock products and a Vite + React frontend that consumes it. The goal is to be runnable quickly and demonstrate the flow (login, view products, add to cart, simple chatbot filter).
 
+## 🎥 Demo Video
+
+> **Option 1: Add video file directly to GitHub**
+> - Record your demo (MP4, MOV format, max 10MB for GitHub)
+> - Drag and drop the video file into this README when editing on GitHub.com
+> - GitHub will generate a link like: `https://user-images.githubusercontent.com/...`
+> - The video will embed automatically!
+
+> **Option 2: Upload to YouTube/Loom**
+> - Upload your demo to YouTube, Loom, or Google Drive
+> - Add the link here:
+> 
+> **Live Demo Video:** [Click here to watch](YOUR_VIDEO_LINK)
+> 
+> [![Demo Video](https://img.youtube.com/vi/YOUR_YOUTUBE_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_ID)
+
+> **Option 3: Create a GIF (Recommended for quick demos)**
+> - Use tools like ScreenToGif, Giphy Capture, or LICEcap
+> - Upload the GIF to GitHub: Create a new issue → drag/drop GIF → copy the URL
+> - Paste here: `![Demo](YOUR_GIF_URL)`
+
 ## What you get
 - Backend: `server/server.js` — express server with mock products and routes:
   - `GET /api/products` — returns all products
